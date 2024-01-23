@@ -6,8 +6,8 @@ public class OperatorEx06 {
 		
 		byte a = 10;
 		byte b = 20;
-		byte c = a + b;
-		System.out.println(c);
+	//	byte c = a + b;
+	//	System.out.println(c);
 		
 		/**
 		 * Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
