@@ -8,7 +8,7 @@ public class EX2_1 {
 		System.out.println("Hello");
 		System.out.println("Hello");
 		System.out.println("Hello");
-		
+		System.out.println("변수관한것");
 	
 	}
 
