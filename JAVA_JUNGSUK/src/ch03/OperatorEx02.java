@@ -15,8 +15,6 @@ public class OperatorEx02 {
 		
 		j = ++i;
 		System.out.println("j = "+ j + " i = " + i);//6
-		
-		
+			
 	}
-
 }
