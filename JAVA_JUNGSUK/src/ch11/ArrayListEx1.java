@@ -38,6 +38,8 @@ public class ArrayListEx1 {
 		print(list1,list2);	
 	}
 	
+	
+	
 	static void print (ArrayList list1, ArrayList list2) {
 		System.out.println();
 		System.out.println("list1:" + list1);
